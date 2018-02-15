@@ -1,6 +1,8 @@
 # Cushman & Wakefield: Diagnose My People
 Diagnose My People is a full stack web application that helps Cushman & Wakefield clients/decision makers survey their people and tabulate their feedback into visualized data that is used to make informed decisions in purchasing a new workspace.  Clients of Cushman & Wakefield can go to the website and are provided with the opportunity to build a custom-tailored survey that is used to gather employee data on the categories that matter to them.  Once the survey has been created, Cushman & Wakefield will reach out to the clients and provide them with a custom URL and passcode for the survey that the client will email their employees.  When the survey period is over, the data is compiled into an eye-catching and user-friendly dashboard.  Cushman & Wakefield uses this information to better serve and make recommendations to clients and show them properties that resemble what the survey suggests.  This results in happier people with more buy-in and loyalty to their employer.  
 
+See a live version of the app at: https://diagnose-my-people.herokuapp.com/
+
 # Built With
 - PostgreSQL
 - AngularJS
