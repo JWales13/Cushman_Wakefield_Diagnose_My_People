@@ -25,8 +25,8 @@ myApp.controller('BuildSurveyContactInfoController', ['$routeParams', 'BuildSurv
     self.openPicker = function () {
 
         console.log('in openPicker()')
-        //fileStack API Key is ARZfGPoJpQYKvfeabBd4Bz
-        var fsClient = filestack.init('ARZfGPoJpQYKvfeabBd4Bz');
+        //fileStack API Key is Af21bwxjPQiohogBxyEQsz
+        var fsClient = filestack.init('Af21bwxjPQiohogBxyEQsz');
         fsClient.pick({
             fromSources: ["local_file_system", "url", "imagesearch", "googledrive", "dropbox", "onedrive", "clouddrive"],
             accept: ["image/*"],
